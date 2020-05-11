@@ -1,0 +1,26 @@
+.navbar{
+	background-color: #808080;
+}
+
+.navbar-brand{
+	color: black;
+	font-size: 25px;
+	 font-weight: bolder;
+}
+
+ p{
+	font-family: cursive;
+}
+
+#main-section {
+    background-color: #808080;
+    padding: 20px;
+}
+
+h2{
+	padding: 10px;
+}
+
+.dropdown-menu{
+	width: 767px;
+}
